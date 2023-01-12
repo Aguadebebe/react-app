@@ -1,7 +1,8 @@
 import * as React from 'react'; 
 import TextField from '@mui/material/TextField';
 import styles from './ChatInput.module.css';
-
+ 
+ 
 function ChatInputOutput() {
   return (
    /*added title and message*/
@@ -35,4 +36,8 @@ function ChatInputOutput() {
   
   );
 }
+
+ 
+ 
+
 export default ChatInputOutput;

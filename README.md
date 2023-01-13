@@ -1,8 +1,11 @@
 \*
 
-1. task - move text ChatInput component to the center of the page
-2. choose a color for component
-3. lengthen input field
+1. task - move text ChatInput component to the center of the page *
+2. choose a color for component *
+3. lengthen input field *
+4. add dark theme *
+5. add title and wlecome statement *
+6. connect api
    \*/
 
 # Getting Started with Create React App

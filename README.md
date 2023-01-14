@@ -4,9 +4,10 @@
 2. choose a color for component *
 3. lengthen input field *
 4. add dark theme *
-5. add title and welcome message *
-6. ?
-   \*/
+5. add title and wlecome statement *
+6. connect api
+7. ?
+ \*/
 
 # Getting Started with Create React App
 

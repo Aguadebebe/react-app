@@ -7,7 +7,7 @@
 5. add title and wlecome statement *
 6. connect api
 7. ?
-   \*/
+ \*/
 
 # Getting Started with Create React App
 

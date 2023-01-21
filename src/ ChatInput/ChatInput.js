@@ -1,6 +1,7 @@
 import * as React from 'react'; 
 import TextField from '@mui/material/TextField';
 import styles from './ChatInput.module.css';
+import { style } from '@mui/system';
  
  
 function ChatInputOutput() {

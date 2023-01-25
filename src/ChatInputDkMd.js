@@ -1,4 +1,4 @@
-import { ThemeProvider, createTheme } from '@mui/material/styles';
+/*import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
 
 const darkTheme = createTheme({
@@ -15,4 +15,4 @@ function App() {
   );
 }
 
-export default App;
+export default App;*/

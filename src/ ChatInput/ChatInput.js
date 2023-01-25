@@ -6,13 +6,42 @@ import { style } from '@mui/system';
  
 function ChatInputOutput() {
   return (
-   /*added title and message*/
+   
   <div> 
+    <div className={styles.creature}>
+      <div></div>
+	    <div></div>	
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>	
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+	    <div></div>
+    </div>
+    
+    
+   
+    <div>
+    
    {/*<TextField sx={{backgroundColor: "coral"}} label="fullWidth" variant="filled"/>*/}
    {/*<TextField sx={{backgroundColor: "aquamarine", height: "142px",}}  fullWidth label="fullWidth" variant="filled"/>*/}
 
    <div className={styles.title}> 
-   <h1>Chat</h1>
+    <h1>Chat</h1>
    </div>
    <h2>Hello, how may I help you?</h2>
    <div className={styles.inputContainer}>
@@ -34,6 +63,7 @@ function ChatInputOutput() {
       />
     </div>
   </div>
+   </div>
   
   );
 }
@@ -42,3 +72,8 @@ function ChatInputOutput() {
  
 
 export default ChatInputOutput;
+
+
+
+
+
